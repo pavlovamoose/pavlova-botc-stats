@@ -12,15 +12,15 @@ const SITE_CONFIG = {
     // Get these from: Supabase Dashboard > Settings > API
     // Leave as-is to use demo mode with sample data.
 
-    supabaseUrl: 'https://tvpijkaguncmycpozeqq.supabase.co',
-    supabaseAnonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InR2cGlqa2FndW5jbXljcG96ZXFxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTI1ODMxODQsImV4cCI6MjEwODE1OTE4NH0.taS0dBHp0KWz_MYYndlHoy_RKNpgerJozUAosWUQ1Dc',
+    supabaseUrl: 'https://tvpijkaguncmycpozeqq.supabase.co',         // e.g., 'https://abcdefgh.supabase.co'
+    supabaseAnonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InR2cGlqa2FndW5jbXljcG96ZXFxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTI1ODMxODQsImV4cCI6MjEwODE1OTE4NH0.taS0dBHp0KWz_MYYndlHoy_RKNpgerJozUAosWUQ1Dc',      // The "anon public" key
 
     // ==========================================
     // OPTIONAL: Customize Your Site
     // ==========================================
 
     // Community name shown in the header
-    communityName: 'Pavlova-BOTC-Stats',
+    communityName: 'pavlova-botc-stats',
 
     // Minimum games a player needs to appear on the leaderboard
     minGamesForLeaderboard: 1,
