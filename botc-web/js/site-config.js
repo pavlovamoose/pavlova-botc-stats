@@ -20,7 +20,7 @@ const SITE_CONFIG = {
     // ==========================================
 
     // Community name shown in the header
-    communityName: 'Pavlova BOTC Stats',
+    communityName: 'Pavlova-BOTC-Stats',
 
     // Minimum games a player needs to appear on the leaderboard
     minGamesForLeaderboard: 1,
